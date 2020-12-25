@@ -1,3 +1,3 @@
-# NAME:Khomson  Suangkaew
+# NAME: Khomson  Suangkaew
 # STUDENT ID: 630610720
 
