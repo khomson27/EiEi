@@ -11,11 +11,9 @@ char before(char x){
 	else{
 		return '0';
 	}
-	//Write your function definition here
 }
 
 int main(){
-	//Test Case
 	cout << before('A') << "\n";
 	cout << before('B') << "\n";
 	cout << before('P') << "\n";
